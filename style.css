@@ -36,9 +36,10 @@
             }
             
             .video{
-                height: 180px;
+                height: 300px;
+                margin: 20px auto;
                 width: 300px;
-                margin: 20px 0px;
+                display: flex;
             }
 
 
@@ -78,9 +79,10 @@
                     }
                     
                     .video{
-                        height: 205px;
-                        width: 340px;
-                        margin: 20px 0px;
+                height: 340px;
+                margin: 20px auto;
+                width: 340px;
+                display: flex;
                     }
 
 
@@ -119,9 +121,10 @@
                     }
                     
                     .video{
-                        height: 222px;
-                        width: 375px;
-                        margin: 20px 0px;
+                height: 350px;
+                margin: 20px auto;
+                width: 350px;
+                display: flex;  
                     }
 
         }
@@ -160,8 +163,10 @@
             }
 
             .video{
-                width: 395px;
-                margin: 20px 0px;
+                height: 350px;
+                margin: 20px auto;
+                width: 350px;
+                display: flex;        
             }
 
         }
@@ -197,9 +202,10 @@
                         font-size: 16px;
                     }
                     .video{
-                        height: 305px;
-                        width: 540px;
-                        margin: 20px 0px; 
+                height: 400px;
+                margin: 20px auto;
+                width: 400px;
+                display: flex;
                     }
         }
         @media (min-width: 768px){
@@ -234,9 +240,10 @@
                 font-size: 16px;
             }
             .video{
-                height: 419px;
-                width: 738px;
-                margin: 20px 0px;
+                height: 400px;
+                margin: 20px auto;
+                width: 400px;
+                display: flex;
             }
         }
         @media (min-width: 1024px){
@@ -271,10 +278,10 @@
                 font-size: 16px;
             }
             .video{
-                height: 547px;
-                margin: 20px 0px;
-                width: 994px;
-                
+                height: 400px;
+                margin: 20px auto;
+                width: 400px;
+                display: flex;
             }
         }
         @media (min-width: 1440px){
@@ -311,10 +318,10 @@
                         font-size: 16px;
                     }
                     .video{
-                        height: 740px;
-                        margin: 20px 0px;
-                        width: 1410px;
-                        
+                        height: 400px;
+                        margin: 20px auto;
+                        width: 400px;
+                        display: flex;
                     }
                     
                 }
